@@ -1,0 +1,22 @@
+{
+  "name": "hackandlearn",
+  "version": "1.0.0",
+  "description": "[![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3cl0s3r/b3cl0s3r.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3cl0s3r/b3cl0s3r.github.io/issues"
+  },
+  "homepage": "https://b3cl0s3r.github.io/",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

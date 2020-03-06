@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- include header.html -%}
+{% include header.html %}
 
 <!-- Main -->
 <div id="main">
@@ -10,7 +10,7 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
+				{% if page.subtitle %}<p>{{- page.subtitle -}}</p>{% endif %}
 			</header>
 	    {{- content -}}
 	  </div>
