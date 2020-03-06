@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Todas las publicaciones
+subtitle: Todas las publicaciones realizadas hasta la fecha
 layout: "page"
 icon: fa-book
 order: 3
